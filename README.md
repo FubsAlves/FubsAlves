@@ -4,7 +4,7 @@
  
 <br>
 
-💻Back-End Developer
+💻Fullstack Developer
 
 <hr>
 
