@@ -89,7 +89,11 @@ After the end of the internship, I worked as a freelancer in development, focusi
  
  
       
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fubsalves)](https://github.com/fubsalves/github-readme-stats)
+   <div align="center">
+  <a href="https://github.com/fubsalves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fubsalves&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fubsalves&layout=compact&langs_count=7&theme=react"/>
+</div>
   
   
   
