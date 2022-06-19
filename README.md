@@ -1,6 +1,6 @@
 <div align='center'>
   
-### Seja bem-vindo(a), meu nome é Fabiano!
+### Welcome to my Github profile, My name is Fabiano Alves and feel free to explore more!
  
 <br>
 
@@ -8,15 +8,19 @@
 
 <hr>
 
-### Sobre
+### About
 
+Web Developer since 2018, learning the best that technology has to offer and looking for a job in companies with the highest standard of developments. I started as a fullstack developer intern at the city hall of Caraguatatuba(IT Office), with experience in development in PHP(Laravel framework) and JavaScript(TS) programming languages, as well as development tools such as HTML/CSS, Jquery, BootStrap MySQL, PostgreSQL, Git. 
+ 
+After the end of the internship, I worked as a freelancer in development, focusing on NestJS and NextJS frameworks as working tools, also using MongoDB, Docker, RabbitMQ, PrismicCMS and Amazon AWS services. Whoever is responsible for reading this CV, If you have any questions, please feel free to get in touch with the information provided.
+  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiano-pereira-alves-bb4b2616b)](https://www.linkedin.com/in/fabiano-pereira-alves-bb4b2616b)
 
 
 
 <hr>
 
-### Tecnologias
+### Technologies
 
 <br>
   
