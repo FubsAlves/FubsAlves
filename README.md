@@ -1,6 +1,6 @@
 <div align='center'>
   
-### Welcome to my Github profile, My name is Fabiano Alves and feel free to explore more!
+### Welcome to my Github profile! My name is Fabiano Alves and feel free to explore more!
  
 <br>
 
